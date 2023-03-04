@@ -1,0 +1,5 @@
+st1 end1 9 8.0
+st2 end2 12 12.4
+st3 end3 6 10.5
+st1 end4 16 14.7
+st4 end1 16 17.5
